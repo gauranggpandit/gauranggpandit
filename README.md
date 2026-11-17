@@ -1,4 +1,4 @@
-### Hallo! I'm Gaurang 👋
+### Hallo! Ich bin Gaurang 👋
 
 Master's student in Robotic Systems Engineering at RWTH Aachen (Data & AI track) with a mechanical engineering background in manufacturing and materials. I build data tools that turn messy industrial data into numbers people can trust, using Python, SQL and GenAI.
 
